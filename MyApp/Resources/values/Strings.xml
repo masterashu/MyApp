@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Found!</string>
+  <string name="find_item">Lets Find your Missing item</string>
+  <string name="save_item">Remember to find later</string>
+  <string name="search_heading">Enter item to search</string>
+  <string name="Save_heading">Remember Something</string>
+  <string name="iteminput">Enter the item to remember</string>
+  <string name="checklast">Item Saved successfully</string>
+</resources>
